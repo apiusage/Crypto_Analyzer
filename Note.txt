@@ -23,7 +23,7 @@ git add .
 git status
 git commit -m "Updates"
 git remote add origin https://github.com/apiusage/Crypto_Analyzer.git
-git remote set-url origin https://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@github.com/apiusage/Crypto_Analyzer.git
+git remote set-url origin https://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@github.com/apiusage/Crypto_Analyzer.git
 git push -u origin master
 git push -f origin master
 
